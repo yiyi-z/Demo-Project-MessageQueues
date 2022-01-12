@@ -4,6 +4,8 @@ CSC369 Project for Consumer and Producer Synchronization Problem.
 
 The project repository that contains codes for Message Queues is set private for the copyright concerns (most parts are implemented by my professors).
 
+You can email me if you're interested in the code!
+
 I worked with Tao Zhang on this project :)
 
 ## Documentations
